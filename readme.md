@@ -51,7 +51,7 @@ For the experiments with 5 emotions, the following expressions was used: Angry, 
     ```
 
     Make sure Dlib and OpenCV 3 are also installed.
-    Note : for windows users, an easy way to install dlib is presented here : [https://github.com/charlielito/install-dlib-python-windows]
+    - Note : for windows users, an easy way to install dlib is presented here : [https://github.com/charlielito/install-dlib-python-windows]
 
 4. Convert the dataset to extract Face Landmarks and HOG Features
 
