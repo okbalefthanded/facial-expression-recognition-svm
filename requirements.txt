@@ -1,0 +1,7 @@
+numpy
+argparse
+sklearn
+scikit-image
+pandas
+hyperopt
+opencv-contrib-python
